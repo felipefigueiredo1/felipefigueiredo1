@@ -4,4 +4,4 @@
 - 🌱 Estou estudando Javascript
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img align="center" alt="Felipe-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
