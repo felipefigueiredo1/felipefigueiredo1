@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe👋
 
 Amo trabalhar na área de desenvolvimento Back-End, sempre estou buscando aprender mais sobre PHP, JavaScript e suas frameworks. Pretendo me especializar, agregar bastante contéudo e projetos.
-
+Disponível para Freelancer ! 
 
 - 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP seguindo padrão MVC.
 - 🌱 Estou estudando Laravel
