@@ -3,9 +3,9 @@
 Amo trabalhar na área de desenvolvimento Back-End, sempre estou buscando aprender mais sobre PHP, JavaScript e suas frameworks. Pretendo me especializar, agregar bastante contéudo e projetos.
 Disponível para Freelancer ! 
 
-- 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP seguindo padrão MVC.
+- 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP.
 - 🌱 Estou estudando Laravel
-- 🤖 Trabalho com JavaScript no front-end utilizando a framework Jquery.
+- 🤖 Trabalho com JavaScript no front-end.
 - ✨ Estilizando a pagina com Bootstrap.
 <div>
 <img align="center" alt="Felipe-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
