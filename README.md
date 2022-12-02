@@ -5,9 +5,10 @@ Disponível para Freelancer !
 
 - 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP e o framework Laravel também.
 - 🌱 Para banco de dados, trabalho com postgresql e mysql.
-- 🤖 Vue JS / JavaScript no front-end.
 - ✨ Estilizando a pagina com TailWind e Bootstrap.
+- 🤖 Vue JS / JavaScript no front-end.
 - 🤖 Utilizo os sistemas operacionais Linux/Windows, sei usar Docker, trabalhando com WSL2.
+- 🤖 Experiência Web-Scrapping e Crawler com Python Selenium.
 
 <div>
 <img align="center" alt="Felipe-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
