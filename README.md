@@ -4,9 +4,9 @@ Amo trabalhar na área de desenvolvimento Back-End, sempre estou buscando aprend
 Disponível para Freelancer ! 
 
 - 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP.
-- 🌱 Estou estudando Laravel
-- 🤖 Trabalho com JavaScript no front-end.
-- ✨ Estilizando a pagina com Bootstrap.
+- 🌱 Utilizo Laravel no back-end , trabalho com postgresql e mysql.
+- 🤖 Trabalho com Vue JS / JavaScript no front-end.
+- ✨ Estilizando a pagina com TailWind e Bootstrap.
 <div>
 <img align="center" alt="Felipe-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="Felipe-LARAVEL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
