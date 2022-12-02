@@ -6,7 +6,7 @@ Disponível para Freelancer !
 - 🔭 Atualmente trabalhando com back-end utilizando a linguaguem PHP e o framework Laravel também.
 - 🌱 Para banco de dados, trabalho com postgresql e mysql.
 - ✨ Estilizando a pagina com TailWind e Bootstrap.
-- 🤖 Vue JS / JavaScript no front-end.
+- 🤖 Vue JS / Jquery / JavaScript no front-end.
 - 🤖 Utilizo os sistemas operacionais Linux/Windows, sei usar Docker, trabalhando com WSL2.
 - 🤖 Experiência Web-Scrapping e Crawler com Python Selenium.
 
