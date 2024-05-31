@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Felipe👋
 
-Amo trabalhar na área de desenvolvimento Back-End, sempre estou buscando aprender mais sobre PHP, JavaScript e seus frameworks. Pretendo me especializar, agregar bastante contéudo e projetos.
-Disponível para Freelancer ! 
+Amo trabalhar na área de desenvolvimento em geral, sempre estou buscando aprender mais linguigagens e frameworks. Atuo frequentemente como Full-Stack e DevOps.
 
 - Atualmente trabalhando com back-end utilizando a linguaguem PHP e o framework Laravel também.
 - Para banco de dados, trabalho com postgresql e mysql.
@@ -11,6 +10,7 @@ Disponível para Freelancer !
 - 🤖 Experiência Web-Scrapping e Crawler com Python Selenium.
 - Experiência com Docker e containers.
 - Boas praticas de segurança e automação com ferramentas DevOps e Cloud.
+
 
 <div>
   <img align="center" alt="Felipe-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
