@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe👋
+### Olá! Eu sou o Felipe
 
 Amo trabalhar na área de desenvolvimento em geral, sempre estou buscando aprender mais linguigagens e frameworks. Atuo frequentemente como Full-Stack e DevOps.
 
