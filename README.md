@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe
 
-Amo trabalhar na área de desenvolvimento em geral, sempre estou buscando aprender mais linguigagens e frameworks. Atuo frequentemente como Full-Stack e DevOps.
+Amo trabalhar na área de desenvolvimento em geral, sempre estou buscando aprender mais linguagens e frameworks. Atuo frequentemente como Full-Stack e DevOps.
 
 - Atualmente trabalhando com back-end utilizando a linguaguem PHP e o framework Laravel também.
 - Para banco de dados, trabalho com postgresql e mysql.
